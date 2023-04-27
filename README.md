@@ -1,5 +1,5 @@
 # Waste-Wise
-a CNN classifier that can differentiate between recyclable and organic waste through the analysis of images.
+A CNN classifier that can differentiate between recyclable and organic waste through the analysis of images.
 
 This classifier is designed to help people identify the type of waste they are disposing of, thereby promoting responsible waste management. Once the waste is classified, users are rewarded with digital points on our platform, which can be used to purchase goods from partnering brands. This incentivizes people to recycle and put waste where it belongs, while also promoting the use of digital currencies and reducing the carbon footprint associated with physical goods.
 
