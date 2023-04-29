@@ -23,3 +23,7 @@ Goal 17: Partnerships for the Goals - By collaborating with brands and promoting
 
 
 Thank you for your attention.
+
+
+
+https://www.notion.so/Waste-Wise-1ce1d3fa50f644ab91607ae675e75c27
